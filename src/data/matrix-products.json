@@ -1,0 +1,848 @@
+[
+  {
+    "id": "ceramide-cleanser",
+    "name": "5X Ceramide Low pH Gel Cleanser",
+    "category": "Cleanser",
+    "image": "/matrix/ceramide-cleanser.png",
+    "price": "Rp. 116.000",
+    "size": "80 ml",
+    "sourceSlide": 29
+  },
+  {
+    "id": "hyaluronic-barrier-toner",
+    "name": "4D Hyaluronic Acid Barrier Essence Toner",
+    "category": "Toner",
+    "image": "/matrix/hyaluronic-barrier-toner.jpg",
+    "price": "Rp. 116.000",
+    "size": "100 ml",
+    "sourceSlide": 34
+  },
+  {
+    "id": "salicylic-spot-treatment",
+    "name": "Salicylic Acid Acne Spot Treatment",
+    "category": "Treatment",
+    "image": "/matrix/salicylic-spot-treatment.jpg",
+    "price": "Rp. 89.000",
+    "size": "10 g",
+    "sourceSlide": 38
+  },
+  {
+    "id": "niacinamide-serum",
+    "name": "10% Niacinamide Brightening Serum",
+    "category": "Serum",
+    "image": "/matrix/niacinamide-serum.jpg",
+    "price": "Rp. 129.000",
+    "size": "20 ml",
+    "sourceSlide": 42
+  },
+  {
+    "id": "ceramide-moisture-gel",
+    "name": "5X Ceramide Barrier Moisture Gel",
+    "category": "Moisturizer",
+    "image": "/matrix/ceramide-moisture-gel.jpg",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 371
+  },
+  {
+    "id": "aha-bha-pha-toner",
+    "name": "5% AHA BHA PHA Exfoliating Toner",
+    "category": "Exfoliator",
+    "image": "/matrix/aha-bha-pha-toner.jpg",
+    "price": "Rp. 116.000",
+    "size": "80 ml",
+    "sourceSlide": 50
+  },
+  {
+    "id": "salicylic-serum",
+    "name": "2% Salicylic Acid Anti-Acne Serum",
+    "category": "Serum",
+    "image": "/matrix/salicylic-serum.png",
+    "price": "Rp. 129.000",
+    "size": "20 ml",
+    "sourceSlide": 54
+  },
+  {
+    "id": "mugwort-clay-mask",
+    "name": "Mugwort Acne Clay Mask",
+    "category": "Treatment",
+    "image": "/matrix/mugwort-clay-mask.jpg",
+    "price": "Rp. 109.000",
+    "size": "55 g",
+    "sourceSlide": 58
+  },
+  {
+    "id": "crystal-eye-cream",
+    "name": "360° Crystal Massager Lifting Eye Cream",
+    "category": "Treatment",
+    "image": "/matrix/crystal-eye-cream.jpg",
+    "price": "Rp. 189.000",
+    "size": "20 g",
+    "sourceSlide": 62
+  },
+  {
+    "id": "light-serum-sunscreen",
+    "name": "Light Serum Sunscreen",
+    "category": "Sunscreen",
+    "image": "/matrix/light-serum-sunscreen.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 301
+  },
+  {
+    "id": "ceramide-soothing-toner",
+    "name": "5X Ceramide Soothing Toner",
+    "category": "Toner",
+    "image": "/matrix/ceramide-soothing-toner.png",
+    "price": "Rp. 116.000",
+    "size": "80 ml",
+    "sourceSlide": 70
+  },
+  {
+    "id": "ceramide-barrier-serum",
+    "name": "5X Ceramide Barrier Serum",
+    "category": "Serum",
+    "image": "/matrix/ceramide-barrier-serum.jpg",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 441
+  },
+  {
+    "id": "hyaluronic-serum",
+    "name": "4D Hyaluronic Acid Hydrating Serum",
+    "category": "Serum",
+    "image": "/matrix/hyaluronic-serum.jpg",
+    "price": "Rp. 129.000",
+    "size": "20 ml",
+    "sourceSlide": 78
+  },
+  {
+    "id": "barrier-facial-oil",
+    "name": "Barrier Booster Facial Oil",
+    "category": "Treatment",
+    "image": "/matrix/barrier-facial-oil.jpg",
+    "price": "Rp. 139.000",
+    "size": "10 ml",
+    "sourceSlide": 82
+  },
+  {
+    "id": "purifying-cleansing-balm",
+    "name": "Purifying Barrier Ice Cream Cleansing Balm",
+    "category": "First Cleanser",
+    "image": "/matrix/purifying-cleansing-balm.jpg",
+    "price": "Rp. 99.000",
+    "size": "40 g",
+    "sourceSlide": 86
+  },
+  {
+    "id": "dark-spot-serum",
+    "name": "377 Dark Spot Serum",
+    "category": "Serum",
+    "image": "/matrix/dark-spot-serum.jpg",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 94
+  },
+  {
+    "id": "glycolic-toner",
+    "name": "Glycolic Acid Daily Clarifying Toner",
+    "category": "Exfoliator",
+    "image": "/matrix/glycolic-toner.png",
+    "price": "Rp. 116.000",
+    "size": "80 ml",
+    "sourceSlide": 99
+  },
+  {
+    "id": "amino-cleansing-mousse",
+    "name": "Amino Acid Ultra-Gentle Cleansing Mousse",
+    "category": "Cleanser",
+    "image": "/matrix/amino-cleansing-mousse.jpg",
+    "price": "Rp. 99.000",
+    "size": "100 ml",
+    "sourceSlide": 103
+  },
+  {
+    "id": "ceramide-serum-sunscreen",
+    "name": "5X Ceramide Serum Sunscreen",
+    "category": "Sunscreen",
+    "image": "/matrix/ceramide-serum-sunscreen.jpg",
+    "price": "Rp. 116.000",
+    "size": "30 ml",
+    "sourceSlide": 107
+  },
+  {
+    "id": "alaska-clay-mask",
+    "name": "Alaska Volcano Clay Deep Pores Cleansing Clay Mask",
+    "category": "Treatment",
+    "image": "/matrix/alaska-clay-mask.jpg",
+    "price": "Rp. 99.000",
+    "size": "100 ml",
+    "sourceSlide": 111
+  },
+  {
+    "id": "gentle-retinol-moisturizer",
+    "name": "Gentle-A Retinol Renewal Moisturizer",
+    "category": "Moisturizer",
+    "image": "/matrix/gentle-retinol-moisturizer.png",
+    "price": "Rp. 116.000",
+    "size": "30 ml",
+    "sourceSlide": 115
+  },
+  {
+    "id": "gentle-retinol-serum",
+    "name": "Gentle-A Retinol Renewal Serum",
+    "category": "Serum",
+    "image": "/matrix/gentle-retinol-serum.png",
+    "price": "Rp. 139.000",
+    "size": "20 ml",
+    "sourceSlide": 119
+  },
+  {
+    "id": "white-truffle-cleanser",
+    "name": "White Truffle Cleansing Essence",
+    "category": "Cleanser",
+    "image": "/matrix/white-truffle-cleanser.jpg",
+    "price": "Rp. 249.000",
+    "size": "80 ml",
+    "sourceSlide": 127
+  },
+  {
+    "id": "light-sunscreen-mist",
+    "name": "All Day Light Sunscreen Mist",
+    "category": "Sunscreen",
+    "image": "/matrix/light-sunscreen-mist.jpg",
+    "price": "Rp. 99.000",
+    "size": "120 ml",
+    "sourceSlide": 131
+  },
+  {
+    "id": "cover-all-cushion",
+    "name": "Cover All Perfect Cushion",
+    "category": "Makeup",
+    "image": "/matrix/cover-all-cushion.png",
+    "price": "Rp. 189.000",
+    "size": "11 g",
+    "sourceSlide": 136
+  },
+  {
+    "id": "ceramide-calming-mask",
+    "name": "5X Ceramide Soothing & Calming Mask",
+    "category": "Treatment",
+    "image": "/matrix/ceramide-calming-mask.jpg",
+    "price": "Rp. 89.000",
+    "size": "4 sheets",
+    "sourceSlide": 142
+  },
+  {
+    "id": "txa-niacinamide-gel",
+    "name": "TXA Niacinamide Brightening Moisture Gel",
+    "category": "Moisturizer",
+    "image": "/matrix/txa-niacinamide-gel.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 435
+  },
+  {
+    "id": "mugwort-clay-stick",
+    "name": "Mugwort Acne Clay Stick",
+    "category": "Treatment",
+    "image": "/matrix/mugwort-clay-stick.jpg",
+    "price": "Rp. 139.000",
+    "size": "40 g",
+    "sourceSlide": 150
+  },
+  {
+    "id": "alaska-clay-stick",
+    "name": "Alaska Volcano Pore Clay Stick",
+    "category": "Treatment",
+    "image": "/matrix/alaska-clay-stick.jpg",
+    "price": "Rp. 89.000",
+    "size": "40 g",
+    "sourceSlide": 154
+  },
+  {
+    "id": "truffle-biome-moisturizer",
+    "name": "Truffle Biome Skin Cream Gel Moisturizer",
+    "category": "Moisturizer",
+    "image": "/matrix/truffle-biome-moisturizer.jpg",
+    "price": "Rp. 149.000",
+    "size": "30 g / 50 g",
+    "sourceSlide": 158
+  },
+  {
+    "id": "centella-toner",
+    "name": "Pure Centella Acne Calming Toner",
+    "category": "Toner",
+    "image": "/matrix/centella-toner.png",
+    "price": "Rp. 99.000",
+    "size": "100 ml",
+    "sourceSlide": 198
+  },
+  {
+    "id": "panthenol-water-gel",
+    "name": "5% Panthenol Acne Calming Water Gel",
+    "category": "Moisturizer",
+    "image": "/matrix/panthenol-water-gel.png",
+    "price": "Rp. 139.000",
+    "size": "30 ml",
+    "sourceSlide": 240
+  },
+  {
+    "id": "niacinamide-cleanser",
+    "name": "Niacinamide Brightening Cleanser",
+    "category": "Cleanser",
+    "image": "/matrix/niacinamide-cleanser.png",
+    "price": "Rp. 89.000",
+    "size": "40 g",
+    "sourceSlide": 206
+  },
+  {
+    "id": "panthenol-cleanser",
+    "name": "Panthenol Gentle Gel Cleanser",
+    "category": "Cleanser",
+    "image": "/matrix/panthenol-cleanser.png",
+    "price": "Rp. 89.000",
+    "size": "40 g",
+    "sourceSlide": 210
+  },
+  {
+    "id": "vitamin-c-glow-serum",
+    "name": "10% Vitamin C Brightening Glow Serum",
+    "category": "Serum",
+    "image": "/matrix/vitamin-c-glow-serum.png",
+    "price": "Rp. 139.000",
+    "size": "20 ml",
+    "sourceSlide": 214
+  },
+  {
+    "id": "outdoor-sun-spray",
+    "name": "Outdoor Sun Spray SPF 50+ PA++++",
+    "category": "Sunscreen",
+    "image": "/matrix/outdoor-sun-spray.png",
+    "price": "Rp. 99.000",
+    "size": "120 ml",
+    "sourceSlide": 218
+  },
+  {
+    "id": "serum-foundation",
+    "name": "All Day Perfect Serum Foundation",
+    "category": "Makeup",
+    "image": "/matrix/serum-foundation.png",
+    "price": "Rp. 189.000",
+    "size": "25 ml",
+    "sourceSlide": 223
+  },
+  {
+    "id": "mugwort-micellar-water",
+    "name": "Mugwort Purifying Micellar Water",
+    "category": "First Cleanser",
+    "image": "/matrix/mugwort-micellar-water.png",
+    "price": "Rp. 99.000",
+    "size": "300 ml",
+    "sourceSlide": 227
+  },
+  {
+    "id": "niacinamide-essence-toner",
+    "name": "Niacinamide Brightening Essence Toner",
+    "category": "Toner",
+    "image": "/matrix/niacinamide-essence-toner.png",
+    "price": "Rp. 116.000",
+    "size": "80 ml",
+    "sourceSlide": 231
+  },
+  {
+    "id": "dark-spot-moisture-gel",
+    "name": "377 Dark Spot Moisture Gel",
+    "category": "Moisturizer",
+    "image": "/matrix/dark-spot-moisture-gel.png",
+    "price": "Rp. 139.000",
+    "size": "30 ml",
+    "sourceSlide": 236
+  },
+  {
+    "id": "aqua-sunscreen",
+    "name": "Aqua Light Daily Sunscreen",
+    "category": "Sunscreen",
+    "image": "/matrix/aqua-sunscreen.png",
+    "price": "Rp. 99.000",
+    "size": "30 ml",
+    "sourceSlide": 244
+  },
+  {
+    "id": "zero-oil-balm",
+    "name": "Zero Oil Cleansing Balm",
+    "category": "First Cleanser",
+    "image": "/matrix/zero-oil-balm.png",
+    "price": "Rp. 99.000",
+    "size": "100 ml",
+    "sourceSlide": 248
+  },
+  {
+    "id": "lactic-acid-serum",
+    "name": "Lactic Acid Skin Renewal Exfoliating Serum",
+    "category": "Exfoliator",
+    "image": "/matrix/lactic-acid-serum.png",
+    "price": "Rp. 139.000",
+    "size": "20 ml",
+    "sourceSlide": 252
+  },
+  {
+    "id": "retinol-moisturizer",
+    "name": "Retinol Skin Renewal Moisturizer",
+    "category": "Moisturizer",
+    "image": "/matrix/retinol-moisturizer.jpg",
+    "price": "Rp.---",
+    "size": "30 ml",
+    "sourceSlide": 256
+  },
+  {
+    "id": "retinol-serum",
+    "name": "Retinol Skin Renewal Serum",
+    "category": "Serum",
+    "image": "/matrix/retinol-serum.png",
+    "price": "Rp.---",
+    "size": "20 ml",
+    "sourceSlide": 262
+  },
+  {
+    "id": "fresh-vitamin-c-serum",
+    "name": "10% Fresh Vitamin C Brightening Fresh Serum",
+    "category": "Serum",
+    "image": "/matrix/fresh-vitamin-c-serum.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 378
+  },
+  {
+    "id": "velvet-matte-cushion",
+    "name": "Perfect Stay Velvet Matte Cushion",
+    "category": "Makeup",
+    "image": "/matrix/velvet-matte-cushion.png",
+    "price": "Rp.---",
+    "size": "11 g / 4 g",
+    "sourceSlide": 266
+  },
+  {
+    "id": "bright-clay-stick",
+    "name": "Niacinamide Bright Boost Clay Stick",
+    "category": "Treatment",
+    "image": "/matrix/bright-clay-stick.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 272
+  },
+  {
+    "id": "acid-gel-moisturizer",
+    "name": "3X Acid Anti-Acne Gel Moisturizer",
+    "category": "Moisturizer",
+    "image": "/matrix/acid-gel-moisturizer.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 276
+  },
+  {
+    "id": "skin-cooling-pad",
+    "name": "Skin Cooling Spray Pad",
+    "category": "Treatment",
+    "image": "/matrix/skin-cooling-pad.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 281
+  },
+  {
+    "id": "peeling-solution",
+    "name": "12% AHA BHA PHA LHA Peeling Solution",
+    "category": "Exfoliator",
+    "image": "/matrix/peeling-solution.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 285
+  },
+  {
+    "id": "matte-fit-sunscreen",
+    "name": "Matte Fit Serum Sunscreen",
+    "category": "Sunscreen",
+    "image": "/matrix/matte-fit-sunscreen.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 289
+  },
+  {
+    "id": "acid-gel-cleanser",
+    "name": "3X Acid Acne Gel Cleanser",
+    "category": "Cleanser",
+    "image": "/matrix/acid-gel-cleanser.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 293
+  },
+  {
+    "id": "niacinamide-sunscreen",
+    "name": "MSH Niacinamide Brightening Serum Sunscreen",
+    "category": "Sunscreen",
+    "image": "/matrix/niacinamide-sunscreen.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 297
+  },
+  {
+    "id": "setting-spray",
+    "name": "Lock the Look Setting Spray",
+    "category": "Makeup",
+    "image": "/matrix/setting-spray.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 305
+  },
+  {
+    "id": "potent-vitamin-c-serum",
+    "name": "Potent Vitamin C Brightening Glow Serum",
+    "category": "Serum",
+    "image": "/matrix/potent-vitamin-c-serum.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 309
+  },
+  {
+    "id": "msh-niacinamide-serum",
+    "name": "MSH Niacinamide Brightening Serum",
+    "category": "Serum",
+    "image": "/matrix/msh-niacinamide-serum.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 313
+  },
+  {
+    "id": "peptide-lip-serum",
+    "name": "Peptide Brightening Lip Serum",
+    "category": "Lip",
+    "image": "/matrix/peptide-lip-serum.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 317
+  },
+  {
+    "id": "powder-foundation",
+    "name": "Ultra Cover Powder Foundation",
+    "category": "Makeup",
+    "image": "/matrix/powder-foundation.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 322
+  },
+  {
+    "id": "serum-concealer",
+    "name": "Cover Perfect Serum Concealer",
+    "category": "Makeup",
+    "image": "/matrix/serum-concealer.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 327
+  },
+  {
+    "id": "sensitive-moisture-gel",
+    "name": "Sensitive Moisture Gel",
+    "category": "Moisturizer",
+    "image": "/matrix/sensitive-moisture-gel.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 331
+  },
+  {
+    "id": "sensitive-sunscreen",
+    "name": "Sensitive Serum Sunscreen",
+    "category": "Sunscreen",
+    "image": "/matrix/sensitive-sunscreen.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 335
+  },
+  {
+    "id": "sensitive-cleanser",
+    "name": "Sensitive Soothe Cleanser",
+    "category": "Cleanser",
+    "image": "/matrix/sensitive-cleanser.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 339
+  },
+  {
+    "id": "radiance-spray",
+    "name": "Radiance Booster Serum Spray",
+    "category": "Serum",
+    "image": "/matrix/radiance-spray.png",
+    "price": "Rp.---",
+    "size": "100 ml",
+    "sourceSlide": 343
+  },
+  {
+    "id": "loose-powder",
+    "name": "Invisiblur All Day Loose Powder",
+    "category": "Makeup",
+    "image": "/matrix/loose-powder.jpg",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 347
+  },
+  {
+    "id": "intensive-acne-spot",
+    "name": "3X Acid Intensive Acne Spot",
+    "category": "Treatment",
+    "image": "/matrix/intensive-acne-spot.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 351
+  },
+  {
+    "id": "dark-spot-toner",
+    "name": "377 Dark Spot Essence Toner",
+    "category": "Toner",
+    "image": "/matrix/dark-spot-toner.jpg",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 355
+  },
+  {
+    "id": "bright-fit-sunscreen",
+    "name": "Bright Fit Serum Sunscreen",
+    "category": "Sunscreen",
+    "image": "/matrix/bright-fit-sunscreen.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 359
+  },
+  {
+    "id": "ectoin-cleanser",
+    "name": "Ectoin Cleansing Essence",
+    "category": "Cleanser",
+    "image": "/matrix/ectoin-cleanser.png",
+    "price": "Rp. 116.000",
+    "size": "80 ml",
+    "sourceSlide": 363
+  },
+  {
+    "id": "ectoin-moisturizer",
+    "name": "Ectoin Skin Cream Gel Moisturizer",
+    "category": "Moisturizer",
+    "image": "/matrix/ectoin-moisturizer.png",
+    "price": "Rp. 149.000",
+    "size": "30 g",
+    "sourceSlide": 367
+  },
+  {
+    "id": "brightening-lip-serum",
+    "name": "Brightening Lip Serum",
+    "category": "Lip",
+    "image": "/matrix/brightening-lip-serum.png",
+    "price": "Rp.---",
+    "size": "6.5 ml",
+    "sourceSlide": 513
+  },
+  {
+    "id": "daily-skin-tint",
+    "name": "Daily Filter Perfect Skin Tint",
+    "category": "Makeup",
+    "image": "/matrix/daily-skin-tint.png",
+    "price": "Rp. 99.000",
+    "size": "28 g",
+    "sourceSlide": 398
+  },
+  {
+    "id": "centella-cleansing-oil",
+    "name": "Centella Deep Cleansing Oil",
+    "category": "First Cleanser",
+    "image": "/matrix/centella-cleansing-oil.png",
+    "price": "Rp.---",
+    "size": "200 ml",
+    "sourceSlide": 403
+  },
+  {
+    "id": "exfoliating-pads",
+    "name": "AHA BHA PHA Exfoliating Pads",
+    "category": "Exfoliator",
+    "image": "/matrix/exfoliating-pads.png",
+    "price": "Rp. 149.000",
+    "size": "40 pads / 130 ml",
+    "sourceSlide": 407
+  },
+  {
+    "id": "cover-glow-cushion",
+    "name": "Cover Glow Perfect Cushion",
+    "category": "Makeup",
+    "image": "/matrix/cover-glow-cushion.jpg",
+    "price": "Rp.---",
+    "size": "11 g / 4 g",
+    "sourceSlide": 411
+  },
+  {
+    "id": "brightening-daily-mask",
+    "name": "Niacinamide Brightening Daily Mask",
+    "category": "Treatment",
+    "image": "/matrix/brightening-daily-mask.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 423
+  },
+  {
+    "id": "niacinamide-micellar-water",
+    "name": "Niacinamide Brightening Micellar Water",
+    "category": "First Cleanser",
+    "image": "/matrix/niacinamide-micellar-water.jpg",
+    "price": "Rp. 99.000",
+    "size": "400 ml",
+    "sourceSlide": 427
+  },
+  {
+    "id": "ceramide-micellar-water",
+    "name": "5X Ceramide Barrier Micellar Water",
+    "category": "First Cleanser",
+    "image": "/matrix/ceramide-micellar-water.jpg",
+    "price": "Rp. 99.000",
+    "size": "400 ml",
+    "sourceSlide": 431
+  },
+  {
+    "id": "pdrn-moisture",
+    "name": "PDRN Bright & Smooth Moisture Gel",
+    "category": "Moisturizer",
+    "image": "/matrix/pdrn-moisture.png",
+    "price": "Rp.---",
+    "size": "30 g",
+    "sourceSlide": 445
+  },
+  {
+    "id": "pdrn-serum",
+    "name": "PDRN Bright & Smooth Serum",
+    "category": "Serum",
+    "image": "/matrix/pdrn-serum.png",
+    "price": "Rp.---",
+    "size": "20 ml",
+    "sourceSlide": 450
+  },
+  {
+    "id": "glow-day-cream",
+    "name": "Glow Bright Day Cream",
+    "category": "Moisturizer",
+    "image": "/matrix/glow-day-cream.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 454
+  },
+  {
+    "id": "uv-bright-lip-serum",
+    "name": "UV Bright Lip Serum SPF50 PA+++",
+    "category": "Lip",
+    "image": "/matrix/uv-bright-lip-serum.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 458
+  },
+  {
+    "id": "damask-rose-cleanser",
+    "name": "Damask Rose Brightening Whipped Cream Cleanser",
+    "category": "Cleanser",
+    "image": "/matrix/damask-rose-cleanser.jpg",
+    "price": "Rp.---",
+    "size": "120 g",
+    "sourceSlide": 463
+  },
+  {
+    "id": "vitamin-c-moisturizer",
+    "name": "Vitamin C Brightening Boost Moisturizer",
+    "category": "Moisturizer",
+    "image": "/matrix/vitamin-c-moisturizer.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 474
+  },
+  {
+    "id": "pdrn-jelly-pad",
+    "name": "PDRN Vitabright Serum Jelly Pad",
+    "category": "Treatment",
+    "image": "/matrix/pdrn-jelly-pad.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 478
+  },
+  {
+    "id": "b5-moisturizer",
+    "name": "5% B5 Ceramide Barrier Relief Moisturizer",
+    "category": "Moisturizer",
+    "image": "/matrix/b5-moisturizer.png",
+    "price": "Rp. 139.000",
+    "size": "30 g",
+    "sourceSlide": 482
+  },
+  {
+    "id": "niacinamide-wipes",
+    "name": "Niacinamide Brightening Cleansing Wipes",
+    "category": "First Cleanser",
+    "image": "/matrix/niacinamide-wipes.png",
+    "price": "Rp.---",
+    "size": "10 wipes",
+    "sourceSlide": 486
+  },
+  {
+    "id": "centella-wipes",
+    "name": "Centella Acne Care Micellar Cleansing Wipes",
+    "category": "First Cleanser",
+    "image": "/matrix/centella-wipes.png",
+    "price": "Rp.---",
+    "size": "10 wipes",
+    "sourceSlide": 490
+  },
+  {
+    "id": "serum-matte-cushion",
+    "name": "Perfect Stay Serum Matte Cushion Foundation SPF 50 PA++++",
+    "category": "Makeup",
+    "image": "/matrix/serum-matte-cushion.png",
+    "price": "Rp.---",
+    "size": "11 g",
+    "sourceSlide": 494
+  },
+  {
+    "id": "pdrn-ampoule",
+    "name": "PDRN Brightening One Time Ampoule Serum",
+    "category": "Serum",
+    "image": "/matrix/pdrn-ampoule.png",
+    "price": "Rp.---",
+    "size": "30 × 1 ml",
+    "sourceSlide": 500
+  },
+  {
+    "id": "pdrn-radiance-spray",
+    "name": "PDRN Radiance Bright Serum Spray",
+    "category": "Serum",
+    "image": "/matrix/pdrn-radiance-spray.png",
+    "price": "Rp.---",
+    "size": "Lorem Ipsum",
+    "sourceSlide": 504
+  },
+  {
+    "id": "radiance-silky-mask",
+    "name": "Radiance Glow Silky Mask",
+    "category": "Treatment",
+    "image": "/matrix/radiance-silky-mask.png",
+    "price": "Rp.---",
+    "size": "28 ml",
+    "sourceSlide": 509
+  },
+  {
+    "id": "tinted-sunscreen",
+    "name": "All Day Protect Tinted Serum Sunscreen SPF 50+ PA++++",
+    "category": "Makeup",
+    "image": "/matrix/tinted-sunscreen.png",
+    "price": "Rp.---",
+    "size": "30 ml",
+    "sourceSlide": 536
+  },
+  {
+    "id": "foundation-stick",
+    "name": "Cover Smooth Blurring Foundation Stick",
+    "category": "Makeup",
+    "image": "/matrix/foundation-stick.png",
+    "price": "Rp.---",
+    "size": "10 g",
+    "sourceSlide": 541
+  }
+]
