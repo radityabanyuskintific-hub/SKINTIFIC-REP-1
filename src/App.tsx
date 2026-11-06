@@ -1,16 +1,5 @@
 import { useEffect, useMemo, useState } from "react"
-import {
-  ArrowDown,
-  ArrowUpRight,
-  Check,
-  ChevronRight,
-  FlaskConical,
-  Menu,
-  Search,
-  ShieldCheck,
-  Sparkles,
-  X,
-} from "lucide-react"
+import { ArrowUpRight, Check, ChevronRight, Menu, Search, X } from "lucide-react"
 import CircularProductGallery from "./components/CircularProductGallery"
 import { concerns, type Product } from "./data/products"
 import { matrixCategories as categories, matrixProducts as products } from "./data/matrixProducts"
@@ -99,7 +88,6 @@ function App() {
         <nav className={menuOpen ? "main-nav is-open" : "main-nav"} aria-label="Main navigation">
           <button onClick={() => { scrollToId("catalogue"); setMenuOpen(false) }}>Products</button>
           <button onClick={() => { scrollToId("concerns"); setMenuOpen(false) }}>Skin concerns</button>
-          <button onClick={() => { scrollToId("science"); setMenuOpen(false) }}>Our science</button>
         </nav>
         <div className="header-actions">
           <button className="header-search" onClick={() => scrollToId("catalogue")} aria-label="Search products">
@@ -112,78 +100,11 @@ function App() {
       </header>
 
       <main>
-        <section className="hero" id="top">
-          <div className="hero-orb hero-orb-one" />
-          <div className="hero-orb hero-orb-two" />
-          <div className="hero-grid" aria-hidden="true" />
-
-          <div className="hero-copy">
-            <div className="hero-kicker">
-              <span>SKIN BARRIER SCIENCE</span>
-              <span>EST. FOR THE FUTURE</span>
-            </div>
-            <h1>
-              Future skin.
-              <br />
-              <em>Barrier first.</em>
-            </h1>
-            <p className="hero-lead">
-              Formula presisi untuk hasil yang terasa cepat—dirancang tetap lembut, terukur, dan selalu berpihak pada skin barrier.
-            </p>
-            <div className="hero-buttons">
-              <button className="primary-button" onClick={() => scrollToId("catalogue")}>
-                Jelajahi produk <ArrowUpRight size={17} />
-              </button>
-              <button className="text-button" onClick={() => scrollToId("concerns")}>
-                Temukan concern-mu <ArrowDown size={16} />
-              </button>
-            </div>
-          </div>
-
-          <div className="hero-visual">
-            <div className="hero-image-frame">
-              <img src="/products/hero-lineup.jpg" alt="Pilihan produk SKINTIFIC" />
-            </div>
-            <div className="hero-badge">
-              <span className="pulse-dot" />
-              Barrier intelligence
-            </div>
-            <div className="hero-index" aria-hidden="true">01 / 03</div>
-          </div>
-
-          <div className="hero-bottom-line">
-            <span>BPOM REGISTERED</span>
-            <span>VEGAN FORMULAS</span>
-            <span>DERMATOLOGICALLY TESTED*</span>
-          </div>
-        </section>
-
-        <section className="manifesto" id="science">
-          <div className="section-label">[ OUR FORMULA ]</div>
-          <div className="manifesto-copy">
-            <p>
-              Bukan sekadar active ingredients. Kami merancang <strong>keseimbangan</strong> antara efektivitas, hidrasi, dan ketahanan barrier.
-            </p>
-          </div>
-          <div className="science-grid">
-            <article>
-              <span>01</span>
-              <FlaskConical />
-              <h3>Right actives</h3>
-              <p>Bahan aktif terarah untuk setiap kebutuhan kulit.</p>
-            </article>
-            <article>
-              <span>02</span>
-              <Sparkles />
-              <h3>Fast response</h3>
-              <p>Formula yang dirancang terasa ringan dan bekerja efisien.</p>
-            </article>
-            <article>
-              <span>03</span>
-              <ShieldCheck />
-              <h3>Barrier safe</h3>
-              <p>Hidrasi dan calming support selalu masuk perhitungan.</p>
-            </article>
+        <section className="intro-hero" id="top">
+          <div className="intro-glow" aria-hidden="true" />
+          <div className="intro-copy">
+            <span>SKINTIFIC</span>
+            <h1>Find Your Solution<br />To Your Beauty</h1>
           </div>
         </section>
 
